@@ -1,0 +1,401 @@
+Transfer starting: 397 files
+Skip newer '.DS_Store'
+Skip newer '.gitignore'
+Skip newer 'README.md'
+Skip newer 'bun.lockb'
+Skip newer 'components.json'
+Skip newer 'eslint.config.js'
+Skip newer 'index.html'
+Skip newer 'package-lock.json'
+Skip newer 'package.json'
+Skip newer 'pnpm-lock.yaml'
+Skip newer 'postcss.config.js'
+Skip newer 'tailwind.config.ts'
+Skip newer 'tsconfig.app.json'
+Skip newer 'tsconfig.json'
+Skip newer 'tsconfig.node.json'
+Skip newer 'vite.config.ts'
+Skip newer '.git/.DS_Store'
+Skip newer '.git/index'
+Skip newer '.git/logs/.DS_Store'
+Skip newer '.git/logs/HEAD'
+Skip newer '.git/refs/.DS_Store'
+Skip newer 'public/favicon.ico'
+Skip newer 'public/placeholder.svg'
+Skip newer 'public/robots.txt'
+Skip newer 'src/.DS_Store'
+Skip newer 'src/App.css'
+Skip newer 'src/App.tsx'
+Skip newer 'src/index.css'
+Skip newer 'src/main.tsx'
+Skip newer 'src/vite-env.d.ts'
+Skip newer 'src/components/AiAssistantView.tsx'
+Skip newer 'src/components/AnalyticsView.tsx'
+Skip newer 'src/components/ChatBox.tsx'
+Skip newer 'src/components/ChatView.tsx'
+Skip newer 'src/components/ColorPalette.tsx'
+Skip newer 'src/components/DesignCanvas.tsx'
+Skip newer 'src/components/EnvTester.tsx'
+Skip newer 'src/components/InventoryView.tsx'
+Skip newer 'src/components/LayoutSelector.tsx'
+Skip newer 'src/components/MarketingView.tsx'
+Skip newer 'src/components/NavBar.tsx'
+Skip newer 'src/components/OrdersView.tsx'
+Skip newer 'src/components/ProductsView.tsx'
+Skip newer 'src/components/RotatingMetrics.tsx'
+Skip newer 'src/components/SettingsPanel.tsx'
+Skip newer 'src/components/SettingsView.tsx'
+Skip newer 'src/components/ai-tools/MarketAnalysis.tsx'
+Skip newer 'src/components/ai-tools/PricingOptimization.tsx'
+Skip newer 'src/components/ai-tools/ProductDescriptionGenerator.tsx'
+Skip newer 'src/components/ai-tools/SeoRecommendations.tsx'
+Skip newer 'src/components/filters/VendorFilter.tsx'
+Skip newer 'src/components/marketing/CalendarDialog.tsx'
+Skip newer 'src/components/ui/accordion.tsx'
+Skip newer 'src/components/ui/alert-dialog.tsx'
+Skip newer 'src/components/ui/alert.tsx'
+Skip newer 'src/components/ui/aspect-ratio.tsx'
+Skip newer 'src/components/ui/avatar.tsx'
+Skip newer 'src/components/ui/badge.tsx'
+Skip newer 'src/components/ui/breadcrumb.tsx'
+Skip newer 'src/components/ui/button.tsx'
+Skip newer 'src/components/ui/calendar.tsx'
+Skip newer 'src/components/ui/card.tsx'
+Skip newer 'src/components/ui/carousel.tsx'
+Skip newer 'src/components/ui/chart.tsx'
+Skip newer 'src/components/ui/checkbox.tsx'
+Skip newer 'src/components/ui/collapsible.tsx'
+Skip newer 'src/components/ui/command.tsx'
+Skip newer 'src/components/ui/context-menu.tsx'
+Skip newer 'src/components/ui/dialog.tsx'
+Skip newer 'src/components/ui/drawer.tsx'
+Skip newer 'src/components/ui/dropdown-menu.tsx'
+Skip newer 'src/components/ui/form.tsx'
+Skip newer 'src/components/ui/hover-card.tsx'
+Skip newer 'src/components/ui/input-otp.tsx'
+Skip newer 'src/components/ui/input.tsx'
+Skip newer 'src/components/ui/label.tsx'
+Skip newer 'src/components/ui/menubar.tsx'
+Skip newer 'src/components/ui/navigation-menu.tsx'
+Skip newer 'src/components/ui/pagination.tsx'
+Skip newer 'src/components/ui/popover.tsx'
+Skip newer 'src/components/ui/progress.tsx'
+Skip newer 'src/components/ui/radio-group.tsx'
+Skip newer 'src/components/ui/resizable.tsx'
+Skip newer 'src/components/ui/scroll-area.tsx'
+Skip newer 'src/components/ui/select.tsx'
+Skip newer 'src/components/ui/separator.tsx'
+Skip newer 'src/components/ui/sheet.tsx'
+Skip newer 'src/components/ui/sidebar.tsx'
+Skip newer 'src/components/ui/skeleton.tsx'
+Skip newer 'src/components/ui/slider.tsx'
+Skip newer 'src/components/ui/sonner.tsx'
+Skip newer 'src/components/ui/switch.tsx'
+Skip newer 'src/components/ui/table.tsx'
+Skip newer 'src/components/ui/tabs.tsx'
+Skip newer 'src/components/ui/textarea.tsx'
+Skip newer 'src/components/ui/toast.tsx'
+Skip newer 'src/components/ui/toaster.tsx'
+Skip newer 'src/components/ui/toggle-group.tsx'
+Skip newer 'src/components/ui/toggle.tsx'
+Skip newer 'src/components/ui/tooltip.tsx'
+Skip newer 'src/components/ui/use-toast.ts'
+Skip newer 'src/hooks/use-mobile.tsx'
+Skip newer 'src/hooks/use-toast.ts'
+Skip newer 'src/integrations/supabase/client.ts'
+Skip newer 'src/integrations/supabase/types.ts'
+Skip newer 'src/lib/utils.ts'
+Skip newer 'src/pages/Index.tsx'
+Skip newer 'src/pages/MarketingCalendar.tsx'
+Skip newer 'src/pages/NotFound.tsx'
+Skip newer 'src/pages/ProductDesigner.tsx'
+Skip newer 'src/pages/ProductPage.tsx'
+Skip newer 'supabase/config.toml'
+Skip newer 'supabase/functions/chat-message/index.ts'
+Skip newer 'supabase/functions/test-env/index.ts'
+./
+project-repomix.md
+.git/
+.git/COMMIT_EDITMSG
+.git/HEAD
+.git/config
+.git/description
+.git/hooks/
+.git/hooks/applypatch-msg.sample
+.git/hooks/commit-msg.sample
+.git/hooks/fsmonitor-watchman.sample
+.git/hooks/post-update.sample
+.git/hooks/pre-applypatch.sample
+.git/hooks/pre-commit.sample
+.git/hooks/pre-merge-commit.sample
+.git/hooks/pre-push.sample
+.git/hooks/pre-rebase.sample
+.git/hooks/pre-receive.sample
+.git/hooks/prepare-commit-msg.sample
+.git/hooks/push-to-checkout.sample
+.git/hooks/sendemail-validate.sample
+.git/hooks/update.sample
+.git/info/
+.git/info/exclude
+.git/logs/
+.git/logs/refs/
+.git/logs/refs/heads/
+.git/logs/refs/heads/merge-backend
+.git/logs/refs/remotes/
+.git/logs/refs/remotes/origin/
+.git/logs/refs/remotes/origin/merge-backend
+.git/objects/
+.git/objects/.DS_Store
+.git/objects/00/
+.git/objects/00/3d44e6b25e3d1af546e8f5f2fa1966c1279276
+.git/objects/01/
+.git/objects/01/b8b6d4f716ff7c26065bc9e46aebd932729fc1
+.git/objects/07/
+.git/objects/07/3655f5fc58a3936bf9f67f145833e8065ec31d
+.git/objects/09/
+.git/objects/09/5313d4f8e1f774c3203c79011492550a8946b0
+.git/objects/0a/
+.git/objects/0a/8fd21165c5f7e195ef8a4d8bd9f3c4d2df5c46
+.git/objects/0b/
+.git/objects/0b/0e43e6bc8079ff97d899dddb025d5b09f20ee2
+.git/objects/10/
+.git/objects/10/5fb650055b71797510142dfa041b5d80808041
+.git/objects/11/
+.git/objects/11/0e361b42fe697b5a143c3136828636d1655aaa
+.git/objects/11/28edfceec064e590995e7e10251c658290ee2d
+.git/objects/11/cd7d045a1f71836133e52424f4adfc6880571c
+.git/objects/11/f02fe2a0061d6e6e1f271b21da95423b448b32
+.git/objects/12/
+.git/objects/12/7641c5adb4906534662adca20e0b86e2e76df4
+.git/objects/12/9b1a30fdbe84d753a2526f13a20e0857f420ba
+.git/objects/14/
+.git/objects/14/15c66d90db0f58b2db32a258002cf394e2e7a1
+.git/objects/14/19f56695be517ec78fe8ad26a6f7da3a7d53b2
+.git/objects/16/
+.git/objects/16/0304d398161f97165233dfe6636caa631bfdfb
+.git/objects/19/
+.git/objects/19/0262f66b098184be512b7cfcd08c4368017d2d
+.git/objects/1a/
+.git/objects/1a/566bf5537500fec3e02f3e6249e51d0ec23cea
+.git/objects/1a/c152802a04364cebab6b13fd91e0213baf1dc3
+.git/objects/1b/
+.git/objects/1b/6122ad76487492023d2f1ab2a3e8dfb29b0403
+.git/objects/1b/dc1d66ab5752bb8929bbb4ca0daee1df5f30da
+.git/objects/20/
+.git/objects/20/5a6a432f48420b908f268e33629c196375cf65
+.git/objects/25/
+.git/objects/25/c5589eb018f93b59ab282662f2f787330af483
+.git/objects/2b/
+.git/objects/2b/0cb889d7a8af6f1b1001388f8922972f792a15
+.git/objects/2b/0fe1dfef3b17850bbac040665f514a8ffd0f15
+.git/objects/2c/
+.git/objects/2c/14125ac48b874740770da80d9e424daf1db58b
+.git/objects/2e/
+.git/objects/2e/7af2b7f1a6f391da1631d93968a9d487ba977d
+.git/objects/2f/
+.git/objects/2f/3195d8c2e569df20f901f897b31989d5616395
+.git/objects/30/
+.git/objects/30/64b6d325b95c74f4cba2c40a1934e96f4910f5
+.git/objects/31/
+.git/objects/31/33162c20350e1741b94b8d2ff77b811bec8363
+.git/objects/31/60ad0f396d96ec2f499e3e76aae44656f58497
+.git/objects/32/
+.git/objects/32/e0122d3273208e97d5024356b57de1ed694a67
+.git/objects/33/
+.git/objects/33/0d9f8bdade9dc4d4dc76a10b358f9547fc64c9
+.git/objects/34/
+.git/objects/34/3dd9220f62619fe66334103967cd06b317e59f
+.git/objects/34/b518ab8bbc75fea13e9702afe3065246ed648f
+.git/objects/36/
+.git/objects/36/496a28727a3643b4212a14225d4f6cbd50bda5
+.git/objects/38/
+.git/objects/38/9184d5b99a085f7b3d6520e37a826224d7f54a
+.git/objects/3e/
+.git/objects/3e/5299917fb55decf8ba88f03c964d984c43cb18
+.git/objects/41/
+.git/objects/41/fa7e0561a3fdb5f986c1213a35e563de740e96
+.git/objects/43/
+.git/objects/43/b43b48b84d3045a442409006d5cb8c5f35adfd
+.git/objects/44/
+.git/objects/44/1ba2390a93a0b66c86e88243ec7b889d1e14e9
+.git/objects/46/
+.git/objects/46/03f8b3d5eee5fe162bb69a02ce8546d4358cc3
+.git/objects/4c/
+.git/objects/4c/4e15773a57eb6172f8bfd77e714e04731844e5
+.git/objects/50/
+.git/objects/50/666e6bd23b743b2cb6e5983bcc91abc113aaca
+.git/objects/52/
+.git/objects/52/2ed0a073e88e08599a10496768a456699c5dcf
+.git/objects/56/
+.git/objects/56/a0979c02183994b324f8039cf710cdf786bcb7
+.git/objects/60/
+.git/objects/60/18e701fc7dd0317cda9eceea390524322e8a05
+.git/objects/63/
+.git/objects/63/9259c3cfd0f57f56117db0edab34580442a316
+.git/objects/65/
+.git/objects/65/37d28afd6b6c88a790c604ff6875d0c5c1c337
+.git/objects/68/
+.git/objects/68/3faa793819982d64e21cb2939666fd6d4a7b13
+.git/objects/68/551b9276b4164a8263aa58d385db30f81a4453
+.git/objects/68/e9d41c43aae32ee5314e0006e01345589570f4
+.git/objects/6b/
+.git/objects/6b/40ba5af11c521280ce1dd802db635ee58c2aba
+.git/objects/6b/ba2ecdc323ecf019b0a5465d3bf73129148a59
+.git/objects/6c/
+.git/objects/6c/67edff67a48c6ac1c46f25a6d468dd461e66cb
+.git/objects/6c/f0506360a20a886703fc5bc65ae7d04f8292fe
+.git/objects/6d/
+.git/objects/6d/5867a761dfe832dcbba310484f145ee30dd37d
+.git/objects/6d/7f12265ba0338704f013930ce4d52c56527dd1
+.git/objects/6e/
+.git/objects/6e/3c39bf39df357a70ea44e986279a8022f01d4f
+.git/objects/70/
+.git/objects/70/b5fdf9fc883edfcfff55b253179176b401c60b
+.git/objects/71/
+.git/objects/71/9464e3da4bc77d3adebed4b6c12d3327f5b89f
+.git/objects/71/a5c325cdce2e6898d11cfeb4f2fdd458e3e2da
+.git/objects/76/
+.git/objects/76/9ff7aa709f0d7a1afe2a87d180447fc26749e4
+.git/objects/7a/
+.git/objects/7a/c3a44bf8f7335718cdf3d49648850a5ea7dd01
+.git/objects/7f/
+.git/objects/7f/3502f8b2820be1d6f0aa4c1ffaa351799c1ed3
+.git/objects/84/
+.git/objects/84/5bbf874b7aeb4843a9d2ac700853ff3a74c8d4
+.git/objects/86/
+.git/objects/86/3ff0148f0bb239b93c44a93baf14073cd3ae23
+.git/objects/87/
+.git/objects/87/22561cf6bda62d62f9a0c67730aefda971873a
+.git/objects/8d/
+.git/objects/8d/90622787ebe95879f62d5c1398656bc9e2a34c
+.git/objects/8d/ed42012b395738a995f2961e2dea4d28406a7b
+.git/objects/8f/
+.git/objects/8f/57418c22273af22ce02d4be3abd2af22dec0a0
+.git/objects/93/
+.git/objects/93/d90e0cfbcbf55187b3263ba935c6880f18defe
+.git/objects/98/
+.git/objects/98/73ac35abb3f6e3bd28639ff8898f6c4d406893
+.git/objects/99/
+.git/objects/99/1f56ecb117e96284bf0f6cad3b14ea2fdf5264
+.git/objects/9a/
+.git/objects/9a/eac3e26c717bff0fb0d29989229ebf153f9756
+.git/objects/9c/
+.git/objects/9c/2b9bf3705d8421bef00704c0c52e83d371ca11
+.git/objects/9e/
+.git/objects/9e/cac28ee639d98fbc161a904b5bca0e022e28d6
+.git/objects/9f/
+.git/objects/9f/9a6dc56193b728feda6d9b1a3d9302b8880f0b
+.git/objects/a2/
+.git/objects/a2/1d77ee708c3d861fb246ecab7f6dc36e0e605b
+.git/objects/a2/3e7a281287e18b1c332498491b6bcc8d8e2b70
+.git/objects/a5/
+.git/objects/a5/47bf36d8d11a4f89c59c144f24795749086dd1
+.git/objects/a8/
+.git/objects/a8/22477534192c4df5073e4015f7461e739d3344
+.git/objects/a9/
+.git/objects/a9/6ea4ec30461d10dc7be22729a1f568706c8d59
+.git/objects/aa/
+.git/objects/aa/58baa29c676db7b14a37436a9662107b0111ec
+.git/objects/ab/
+.git/objects/ab/5a8696bb7444b479be2c6950c23f8e752aff8f
+.git/objects/ae/
+.git/objects/ae/11cbf1356018c5a3bafc1b9541147e573482dd
+.git/objects/af/
+.git/objects/af/a13ecfa3bd0f4a553a510b856c5800382e139b
+.git/objects/af/e5da62559ca05a0eb5c9415a1e20bd47b37af9
+.git/objects/b0/
+.git/objects/b0/aef21be259883fe159d3176ab46c6841c28a07
+.git/objects/b9/
+.git/objects/b9/3030d0962ebf9f572a99556dcbc11c562f1f29
+.git/objects/b9/d355df2a5956b526c004531b7b0ffe412461e0
+.git/objects/bb/
+.git/objects/bb/ba7e0ebf26c29526552f2dc4e8e3ecea3d641a
+.git/objects/bd/
+.git/objects/bd/0c391ddd1088e9067844c48835bf4abcd61783
+.git/objects/c2/
+.git/objects/c2/3630eb841533af4030574e54106f0fdf0fc677
+.git/objects/c4/
+.git/objects/c4/abbf37f217c715a0eaade7f45ac78600df419f
+.git/objects/c6/
+.git/objects/c6/b780934e31c02005a39ab3c4d46100f1ba4607
+.git/objects/c6/ecd433a222b4c32a33e284e83e9d9c6cd490e0
+.git/objects/c7/
+.git/objects/c7/226410f89e1cae6776d9822d02be1d7ced96cf
+.git/objects/cd/
+.git/objects/cd/3cb0ec783fcd72906f275a372d50259d5853b8
+.git/objects/cd/a36dad66f37ea2f094f433985694a220a70d63
+.git/objects/cf/
+.git/objects/cf/253cf17056ce04827219643e484ea99c77cf6b
+.git/objects/d1/
+.git/objects/d1/1c2993f279769a0df4ba4313e1f0c7c7c7cd28
+.git/objects/d2/
+.git/objects/d2/f62b22d0dff8db8e4359940e6847cbf0df5fbb
+.git/objects/d4/
+.git/objects/d4/94d2e5337ce85b4d0f3ebd16f9ecfe01f5358f
+.git/objects/d5/
+.git/objects/d5/3af7f747ab1ea55167ad721e607496d8e938eb
+.git/objects/d9/
+.git/objects/d9/026d5870447325bd9e6d6245f59cc6d0290874
+.git/objects/db/
+.git/objects/db/b21a503bcaf0d5b9b7fd95518cf7880826cc01
+.git/objects/dc/
+.git/objects/dc/2d67617b8c48f2663a38e24df0e15c37ba6f0e
+.git/objects/dd/
+.git/objects/dd/bdd01d8d1491ab772790db8d40c5ac0a2630f3
+.git/objects/e1/
+.git/objects/e1/21f0aea0b32952ae54d7db8965a2c15168b13e
+.git/objects/e1/61daec03130190dcfb597c8632f9df4ba407f5
+.git/objects/e4/
+.git/objects/e4/c6e0cfbf138adb85012ac0a208a037debb23a9
+.git/objects/e6/
+.git/objects/e6/7846f70fbbe40407fc84875913595ab31c4a47
+.git/objects/e6/a723d06574ee5cec8b00759b98f3fbe1ac7cc9
+.git/objects/e7/
+.git/objects/e7/1066d35933a8a27289ca69b093386e0ea0d626
+.git/objects/e7/63910b27fdd9ac872f56baede51bc839402347
+.git/objects/ea/
+.git/objects/ea/40d196dc72673f36c4084bf56457385edc855e
+.git/objects/eb/
+.git/objects/eb/ceb0cfeaa844d09d7334bb22e3b4c512f13c9c
+.git/objects/eb/eaa3bfaad64843f92cf3676ebb283c62175532
+.git/objects/eb/f5c281ee7fbbf86462b33b7b9955d884d57580
+.git/objects/ee/
+.git/objects/ee/6448796f9c0cc25e518f2cc52de68241f8bdf5
+.git/objects/f0/
+.git/objects/f0/00e3ef5176395b067dfc3f3e1256a80c450015
+.git/objects/f2/
+.git/objects/f2/9e3f1610677762f3d97aaefc9ce40a9d410948
+.git/objects/f5/
+.git/objects/f5/7fffdb5a07cd21b12f8c014513475a6980a469
+.git/objects/fb/
+.git/objects/fb/19b680faf89965c7a909f731c3990f1be8338f
+.git/objects/fe/
+.git/objects/fe/56d4d3ad53f9c3ec9434f2d39feb7571a3b52f
+.git/objects/info/
+.git/objects/pack/
+.git/refs/
+.git/refs/heads/
+.git/refs/heads/merge-backend
+.git/refs/remotes/
+.git/refs/remotes/origin/
+.git/refs/remotes/origin/merge-backend
+.git/refs/tags/
+public/
+src/
+src/components/
+src/components/ai-tools/
+src/components/filters/
+src/components/marketing/
+src/components/ui/
+src/hooks/
+src/integrations/
+src/integrations/supabase/
+src/lib/
+src/pages/
+supabase/
+supabase/functions/
+supabase/functions/chat-message/
+supabase/functions/test-env/
+
+sent 24152 bytes  received 1718 bytes  2561386 bytes/sec
+total size is 2043530  speedup is 78.99
